@@ -24,23 +24,41 @@
         position: absolute;left: 0;right: 0;
     }
     img{
-        height: 80px;
+        height: 60px;
+        width: 45px;
         float: left;
     }
     .number{
         margin-top: 1em;
         background-color: #FFFFFF;
     }
-    input{
+   .number{
         border: none;
-        height: 80px;
-        line-height: 80px;
+        height: 60px;
     }
-    button{
+    .input{
+        margin-top: 5px;
+        border: none;
+        border-left: solid #C8C8C8 0.05px;
+        padding-left: 20px;
+        line-height: 50px;
+    }
+  .button{
+        height: 60px;
+        width: 100%;
+        border: none;
         background-color: #5AC0CE;
-        position: absolute; left: 0;right: 0;
         margin-top: 1em;
-        width: auto;
         color: #FFFFFF;
+        font-size: 16px;
     }
+    .forget{
+        margin-top: 1em;
+        border: none;
+        border-bottom:  solid #5AC0CE 0.05px;
+        font-size: 14px;
+        color: #5AC0CE;
+        margin-left: 90%;
+    }
+ 
  
