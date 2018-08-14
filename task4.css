@@ -37,12 +37,13 @@
         height: 50px;
     }
     .input{
-        margin-top: 5px;
+        margin-top: 10px;
         border: none;
         outline: none;
         border-left: solid #C8C8C8 0.05px;
         padding-left: 20px;
         line-height: 30px;
+        vertical-align: middle;
     }
   .button{
         height: 60px;
