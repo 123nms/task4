@@ -24,7 +24,7 @@
         position: absolute;left: 0;right: 0;
     }
     img{
-        height: 60px;
+        height: 50px;
         width: 45px;
         float: left;
     }
@@ -34,7 +34,7 @@
     }
    .number{
         border: none;
-        height: 60px;
+        height: 50px;
     }
     .input{
         margin-top: 5px;
@@ -42,14 +42,14 @@
         outline: none;
         border-left: solid #C8C8C8 0.05px;
         padding-left: 20px;
-        line-height: 50px;
+        line-height: 30px;
     }
   .button{
         height: 60px;
         width: 100%;
         border: none;
         background-color: #5AC0CE;
-        margin-top: 1em;
+        margin-top: 3em;
         color: #FFFFFF;
         font-size: 16px;
     }
