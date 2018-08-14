@@ -58,7 +58,8 @@
         border-bottom:  solid #5AC0CE 0.05px;
         font-size: 14px;
         color: #5AC0CE;
-        margin-left: 90%;
+        margin-right: 1em;
+        float: right;
     }
  
  
